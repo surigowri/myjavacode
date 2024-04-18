@@ -1,5 +1,5 @@
 package basicsofjava_batch39;
-
+//10 Constructors (Overloading)
 public class Gowri_Assignment_19 {
 
 	Gowri_Assignment_19(){
@@ -33,7 +33,7 @@ public class Gowri_Assignment_19 {
 		System.out.println("10");
 	}
 	public static void main(String[] args) {
-		// 10 Constructors (Overloading)
+		
      new Gowri_Assignment_19();
      new Gowri_Assignment_19(50);
      new Gowri_Assignment_19("Ria",1.11);
